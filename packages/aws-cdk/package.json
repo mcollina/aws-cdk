@@ -51,7 +51,7 @@
     "@types/promptly": "^3.0.0",
     "@types/semver": "^7.3.3",
     "@types/sinon": "^9.0.5",
-    "@types/table": "^4.0.7",
+    "@types/table": "^6.0.0",
     "@types/uuid": "^8.3.0",
     "@types/wrap-ansi": "^3.0.0",
     "@types/yaml": "^1.9.7",
