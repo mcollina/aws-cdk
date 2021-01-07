@@ -12,7 +12,7 @@
     "build+test": "npm run build && npm test"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.10",
+    "@types/jest": "^26.0.20",
     "@types/node": "^10.17.28",
     "typescript": "~3.9.7"
   },

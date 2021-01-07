@@ -21,7 +21,7 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/jest": "^26.0.10",
+    "@types/jest": "^26.0.20",
     "cdk-build-tools": "0.0.0",
     "jest": "^26.4.2",
     "pkglint": "0.0.0",
